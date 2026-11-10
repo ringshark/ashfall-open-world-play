@@ -1,12 +1,12 @@
 {
   "source_repository": "ringshark/ashfall-open-world",
-  "source_commit": "4b2820e64590b50ba19a23c878f96d21e71901ce",
+  "source_commit": "5741736b85b29e7e57fde808aedbf761757ff028",
   "godot_version": "4.5.1",
-  "change": "Visual polish (lighting/day-night, ground tiles, UI) plus compile fixes for topdown_art.gd indent and topdown_real_sprites.gd type inference",
+  "change": "Phone-browser light mode: fewer ground chunks streamed and no ambient particles on iOS/Android web (Safari tab was killed for memory a few seconds after moving)",
   "sha256": {
-    "index.pck": "db7d8a8bd227477bcf6cb4366125562e760ac41ee2625a87839dff8b05d7cd79",
+    "index.pck": "96b54d321f0ca1e073a56a8b31af6c0da94f23f5cc8d1a5b4e0e013ca55aaaec",
     "index.wasm": "6498359ba889796a0d95a2f71113ac184badc0f2d84cf28f4103c7e399d2d547",
     "index.js": "8a7c7d57f7da69bb71da9de302480b87e4c7ecb467ce643665b4a288683cd18f",
-    "index.html": "0225464e6d7c6f59024a8e0826ac901b5833825dcb468872666f74c2067df87a"
+    "index.html": "9229d80e3bad7d06c2e11bea56adceb667d8633a3bea4ea841312c40f9ca7c5f"
   }
 }
